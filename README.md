@@ -1,7 +1,8 @@
 # CS110
 
-Card.java
-CardStack.java
-DeckStack.java
-GamePosition.java
-War.Java
+-War Game is inside src file 
+  - images inside src 
+  - game run on WarRun class
+
+-Java Docs are placed in file javadocs
+
